@@ -1,4 +1,7 @@
 #test0002
+https://blog.csdn.net/weixin_40816738/article/details/90383728?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-2
+
+https://www.cnblogs.com/chen8023miss/p/12082093.html
 1硬件电路
 
 1登录github，新建一个项目new repository
